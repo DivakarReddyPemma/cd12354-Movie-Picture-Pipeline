@@ -1,4 +1,5 @@
-name: Frontend Continuous Deployment
+name: Frontend Continuous Deployment 
+#rebuild with api url
 
 on:
   push:
